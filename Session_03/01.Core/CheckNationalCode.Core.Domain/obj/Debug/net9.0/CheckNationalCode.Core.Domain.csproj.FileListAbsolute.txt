@@ -1,0 +1,13 @@
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.Domain\bin\Debug\net9.0\CheckNationalCode.Core.Domain.deps.json
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.Domain\bin\Debug\net9.0\CheckNationalCode.Core.Domain.runtimeconfig.json
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.Domain\bin\Debug\net9.0\CheckNationalCode.Core.Domain.dll
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.Domain\bin\Debug\net9.0\CheckNationalCode.Core.Domain.pdb
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.Domain\obj\Debug\net9.0\CheckNationalCode.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.Domain\obj\Debug\net9.0\CheckNationalCode.Core.Domain.AssemblyInfoInputs.cache
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.Domain\obj\Debug\net9.0\CheckNationalCode.Core.Domain.AssemblyInfo.cs
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.Domain\obj\Debug\net9.0\CheckNationalCode.Core.Domain.csproj.CoreCompileInputs.cache
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.Domain\obj\Debug\net9.0\CheckNationalCode.Core.Domain.dll
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.Domain\obj\Debug\net9.0\refint\CheckNationalCode.Core.Domain.dll
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.Domain\obj\Debug\net9.0\CheckNationalCode.Core.Domain.pdb
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.Domain\obj\Debug\net9.0\CheckNationalCode.Core.Domain.genruntimeconfig.cache
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.Domain\obj\Debug\net9.0\ref\CheckNationalCode.Core.Domain.dll

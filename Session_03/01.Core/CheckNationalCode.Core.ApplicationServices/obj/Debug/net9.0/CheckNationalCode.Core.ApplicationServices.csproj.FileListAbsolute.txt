@@ -1,0 +1,17 @@
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.ApplicationServices\bin\Debug\net9.0\CheckNationalCode.Core.ApplicationServices.deps.json
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.ApplicationServices\bin\Debug\net9.0\CheckNationalCode.Core.ApplicationServices.runtimeconfig.json
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.ApplicationServices\bin\Debug\net9.0\CheckNationalCode.Core.ApplicationServices.dll
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.ApplicationServices\bin\Debug\net9.0\CheckNationalCode.Core.ApplicationServices.pdb
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.ApplicationServices\bin\Debug\net9.0\CheckNationalCode.Core.Domain.dll
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.ApplicationServices\bin\Debug\net9.0\CheckNationalCode.Core.Domain.pdb
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.ApplicationServices\obj\Debug\net9.0\CheckNationalCode.Core.ApplicationServices.csproj.AssemblyReference.cache
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.ApplicationServices\obj\Debug\net9.0\CheckNationalCode.Core.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.ApplicationServices\obj\Debug\net9.0\CheckNationalCode.Core.ApplicationServices.AssemblyInfoInputs.cache
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.ApplicationServices\obj\Debug\net9.0\CheckNationalCode.Core.ApplicationServices.AssemblyInfo.cs
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.ApplicationServices\obj\Debug\net9.0\CheckNationalCode.Core.ApplicationServices.csproj.CoreCompileInputs.cache
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.ApplicationServices\obj\Debug\net9.0\CheckNat.F89ADF4E.Up2Date
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.ApplicationServices\obj\Debug\net9.0\CheckNationalCode.Core.ApplicationServices.dll
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.ApplicationServices\obj\Debug\net9.0\refint\CheckNationalCode.Core.ApplicationServices.dll
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.ApplicationServices\obj\Debug\net9.0\CheckNationalCode.Core.ApplicationServices.pdb
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.ApplicationServices\obj\Debug\net9.0\CheckNationalCode.Core.ApplicationServices.genruntimeconfig.cache
+E:\C#_Pro\Practice\Session_03\CheckNationalCode\01.Core\CheckNationalCode.Core.ApplicationServices\obj\Debug\net9.0\ref\CheckNationalCode.Core.ApplicationServices.dll

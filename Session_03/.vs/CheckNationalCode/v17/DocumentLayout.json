@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#_Pro\\Practice\\Session_03\\CheckNationalCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7111F15-F716-4824-AFDB-A47278264BFB}|01.Core\\CheckNationalCode.Core.Domain\\CheckNationalCode.Core.Domain.csproj|e:\\c#_pro\\practice\\session_03\\checknationalcode\\01.core\\checknationalcode.core.domain\\users\\requestuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7111F15-F716-4824-AFDB-A47278264BFB}|01.Core\\CheckNationalCode.Core.Domain\\CheckNationalCode.Core.Domain.csproj|solutionrelative:01.core\\checknationalcode.core.domain\\users\\requestuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F226E63-E364-4EC4-BECB-A0D6C8A5553A}|02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\InfraStructures.Data.EF.SqlServer.csproj|e:\\c#_pro\\practice\\session_03\\checknationalcode\\02.infrastructures\\data\\infrastructures.data.ef.sqlserver\\requestuser\\requestuserconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F226E63-E364-4EC4-BECB-A0D6C8A5553A}|02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\InfraStructures.Data.EF.SqlServer.csproj|solutionrelative:02.infrastructures\\data\\infrastructures.data.ef.sqlserver\\requestuser\\requestuserconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F226E63-E364-4EC4-BECB-A0D6C8A5553A}|02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\InfraStructures.Data.EF.SqlServer.csproj|e:\\c#_pro\\practice\\session_03\\checknationalcode\\02.infrastructures\\data\\infrastructures.data.ef.sqlserver\\requestuser\\requestuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F226E63-E364-4EC4-BECB-A0D6C8A5553A}|02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\InfraStructures.Data.EF.SqlServer.csproj|solutionrelative:02.infrastructures\\data\\infrastructures.data.ef.sqlserver\\requestuser\\requestuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7111F15-F716-4824-AFDB-A47278264BFB}|01.Core\\CheckNationalCode.Core.Domain\\CheckNationalCode.Core.Domain.csproj|e:\\c#_pro\\practice\\session_03\\checknationalcode\\01.core\\checknationalcode.core.domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7111F15-F716-4824-AFDB-A47278264BFB}|01.Core\\CheckNationalCode.Core.Domain\\CheckNationalCode.Core.Domain.csproj|solutionrelative:01.core\\checknationalcode.core.domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F226E63-E364-4EC4-BECB-A0D6C8A5553A}|02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\InfraStructures.Data.EF.SqlServer.csproj|e:\\c#_pro\\practice\\session_03\\checknationalcode\\02.infrastructures\\data\\infrastructures.data.ef.sqlserver\\common\\requestusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F226E63-E364-4EC4-BECB-A0D6C8A5553A}|02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\InfraStructures.Data.EF.SqlServer.csproj|solutionrelative:02.infrastructures\\data\\infrastructures.data.ef.sqlserver\\common\\requestusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B54AA9-F3A8-4DFC-835E-5BCD7E407B1C}|03.EndPoints\\CheckNationalCode.Endpoint.Rest\\CheckNationalCode.Endpoint.Rest.csproj|e:\\c#_pro\\practice\\session_03\\checknationalcode\\03.endpoints\\checknationalcode.endpoint.rest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58B54AA9-F3A8-4DFC-835E-5BCD7E407B1C}|03.EndPoints\\CheckNationalCode.Endpoint.Rest\\CheckNationalCode.Endpoint.Rest.csproj|solutionrelative:03.endpoints\\checknationalcode.endpoint.rest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B54AA9-F3A8-4DFC-835E-5BCD7E407B1C}|03.EndPoints\\CheckNationalCode.Endpoint.Rest\\CheckNationalCode.Endpoint.Rest.csproj|e:\\c#_pro\\practice\\session_03\\checknationalcode\\03.endpoints\\checknationalcode.endpoint.rest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58B54AA9-F3A8-4DFC-835E-5BCD7E407B1C}|03.EndPoints\\CheckNationalCode.Endpoint.Rest\\CheckNationalCode.Endpoint.Rest.csproj|solutionrelative:03.endpoints\\checknationalcode.endpoint.rest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F226E63-E364-4EC4-BECB-A0D6C8A5553A}|02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\InfraStructures.Data.EF.SqlServer.csproj|e:\\c#_pro\\practice\\session_03\\checknationalcode\\02.infrastructures\\data\\infrastructures.data.ef.sqlserver\\common\\taskscontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F226E63-E364-4EC4-BECB-A0D6C8A5553A}|02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\InfraStructures.Data.EF.SqlServer.csproj|solutionrelative:02.infrastructures\\data\\infrastructures.data.ef.sqlserver\\common\\taskscontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F226E63-E364-4EC4-BECB-A0D6C8A5553A}|02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\InfraStructures.Data.EF.SqlServer.csproj|e:\\c#_pro\\practice\\session_03\\checknationalcode\\02.infrastructures\\data\\infrastructures.data.ef.sqlserver\\common\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F226E63-E364-4EC4-BECB-A0D6C8A5553A}|02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\InfraStructures.Data.EF.SqlServer.csproj|solutionrelative:02.infrastructures\\data\\infrastructures.data.ef.sqlserver\\common\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5D3812-3B4E-4684-B561-CD08A950BC7F}|01.Core\\CheckNationalCode.Core.ApplicationServices\\CheckNationalCode.Core.ApplicationServices.csproj|e:\\c#_pro\\practice\\session_03\\checknationalcode\\01.core\\checknationalcode.core.applicationservices\\common\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D3812-3B4E-4684-B561-CD08A950BC7F}|01.Core\\CheckNationalCode.Core.ApplicationServices\\CheckNationalCode.Core.ApplicationServices.csproj|solutionrelative:01.core\\checknationalcode.core.applicationservices\\common\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5D3812-3B4E-4684-B561-CD08A950BC7F}|01.Core\\CheckNationalCode.Core.ApplicationServices\\CheckNationalCode.Core.ApplicationServices.csproj|e:\\c#_pro\\practice\\session_03\\checknationalcode\\01.core\\checknationalcode.core.applicationservices\\users\\irequestuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D3812-3B4E-4684-B561-CD08A950BC7F}|01.Core\\CheckNationalCode.Core.ApplicationServices\\CheckNationalCode.Core.ApplicationServices.csproj|solutionrelative:01.core\\checknationalcode.core.applicationservices\\users\\irequestuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5D3812-3B4E-4684-B561-CD08A950BC7F}|01.Core\\CheckNationalCode.Core.ApplicationServices\\CheckNationalCode.Core.ApplicationServices.csproj|e:\\c#_pro\\practice\\session_03\\checknationalcode\\01.core\\checknationalcode.core.applicationservices\\common\\iapplicationservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5D3812-3B4E-4684-B561-CD08A950BC7F}|01.Core\\CheckNationalCode.Core.ApplicationServices\\CheckNationalCode.Core.ApplicationServices.csproj|solutionrelative:01.core\\checknationalcode.core.applicationservices\\common\\iapplicationservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\C#_Pro\\Practice\\Session_03\\CheckNationalCode\\03.EndPoints\\CheckNationalCode.Endpoint.Rest\\appsettings.json",
+              "RelativeDocumentMoniker": "03.EndPoints\\CheckNationalCode.Endpoint.Rest\\appsettings.json",
+              "ToolTip": "E:\\C#_Pro\\Practice\\Session_03\\CheckNationalCode\\03.EndPoints\\CheckNationalCode.Endpoint.Rest\\appsettings.json",
+              "RelativeToolTip": "03.EndPoints\\CheckNationalCode.Endpoint.Rest\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-14T09:36:42.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestUserRepository.cs",
+              "DocumentMoniker": "E:\\C#_Pro\\Practice\\Session_03\\CheckNationalCode\\02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\RequestUser\\RequestUserRepository.cs",
+              "RelativeDocumentMoniker": "02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\RequestUser\\RequestUserRepository.cs",
+              "ToolTip": "E:\\C#_Pro\\Practice\\Session_03\\CheckNationalCode\\02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\RequestUser\\RequestUserRepository.cs",
+              "RelativeToolTip": "02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\RequestUser\\RequestUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:30:29.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RequestUser.cs",
+              "DocumentMoniker": "E:\\C#_Pro\\Practice\\Session_03\\CheckNationalCode\\01.Core\\CheckNationalCode.Core.Domain\\Users\\RequestUser.cs",
+              "RelativeDocumentMoniker": "01.Core\\CheckNationalCode.Core.Domain\\Users\\RequestUser.cs",
+              "ToolTip": "E:\\C#_Pro\\Practice\\Session_03\\CheckNationalCode\\01.Core\\CheckNationalCode.Core.Domain\\Users\\RequestUser.cs",
+              "RelativeToolTip": "01.Core\\CheckNationalCode.Core.Domain\\Users\\RequestUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:09:27.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestUserConfig.cs",
+              "DocumentMoniker": "E:\\C#_Pro\\Practice\\Session_03\\CheckNationalCode\\02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\RequestUser\\RequestUserConfig.cs",
+              "RelativeDocumentMoniker": "02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\RequestUser\\RequestUserConfig.cs",
+              "ToolTip": "E:\\C#_Pro\\Practice\\Session_03\\CheckNationalCode\\02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\RequestUser\\RequestUserConfig.cs",
+              "RelativeToolTip": "02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\RequestUser\\RequestUserConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:00:35.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TasksContextFactory.cs",
+              "DocumentMoniker": "E:\\C#_Pro\\Practice\\Session_03\\CheckNationalCode\\02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\Common\\TasksContextFactory.cs",
+              "RelativeDocumentMoniker": "02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\Common\\TasksContextFactory.cs",
+              "ToolTip": "E:\\C#_Pro\\Practice\\Session_03\\CheckNationalCode\\02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\Common\\TasksContextFactory.cs",
+              "RelativeToolTip": "02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\Common\\TasksContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:59:45.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequestUserContext.cs",
+              "DocumentMoniker": "E:\\C#_Pro\\Practice\\Session_03\\CheckNationalCode\\02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\Common\\RequestUserContext.cs",
+              "RelativeDocumentMoniker": "02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\Common\\RequestUserContext.cs",
+              "ToolTip": "E:\\C#_Pro\\Practice\\Session_03\\CheckNationalCode\\02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\Common\\RequestUserContext.cs",
+              "RelativeToolTip": "02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\Common\\RequestUserContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:52:26.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "E:\\C#_Pro\\Practice\\Session_03\\CheckNationalCode\\02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\Common\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\Common\\BaseRepository.cs",
+              "ToolTip": "E:\\C#_Pro\\Practice\\Session_03\\CheckNationalCode\\02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\Common\\BaseRepository.cs",
+              "RelativeToolTip": "02.InfraStructures\\Data\\InfraStructures.Data.EF.SqlServer\\Common\\BaseRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA0wBAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:51:57.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRequestUserRepository.cs",
+              "DocumentMoniker": "E:\\C#_Pro\\Practice\\Session_03\\CheckNationalCode\\01.Core\\CheckNationalCode.Core.ApplicationServices\\Users\\IRequestUserRepository.cs",
+              "RelativeDocumentMoniker": "01.Core\\CheckNationalCode.Core.ApplicationServices\\Users\\IRequestUserRepository.cs",
+              "ToolTip": "E:\\C#_Pro\\Practice\\Session_03\\CheckNationalCode\\01.Core\\CheckNationalCode.Core.ApplicationServices\\Users\\IRequestUserRepository.cs",
+              "RelativeToolTip": "01.Core\\CheckNationalCode.Core.ApplicationServices\\Users\\IRequestUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:51:19.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "E:\\C#_Pro\\Practice\\Session_03\\CheckNationalCode\\01.Core\\CheckNationalCode.Core.ApplicationServices\\Common\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "01.Core\\CheckNationalCode.Core.ApplicationServices\\Common\\IBaseRepository.cs",
+              "ToolTip": "E:\\C#_Pro\\Practice\\Session_03\\CheckNationalCode\\01.Core\\CheckNationalCode.Core.ApplicationServices\\Common\\IBaseRepository.cs",
+              "RelativeToolTip": "01.Core\\CheckNationalCode.Core.ApplicationServices\\Common\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:49:14.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IApplicationServies.cs",
+              "DocumentMoniker": "E:\\C#_Pro\\Practice\\Session_03\\CheckNationalCode\\01.Core\\CheckNationalCode.Core.ApplicationServices\\Common\\IApplicationServies.cs",
+              "RelativeDocumentMoniker": "01.Core\\CheckNationalCode.Core.ApplicationServices\\Common\\IApplicationServies.cs",
+              "ToolTip": "E:\\C#_Pro\\Practice\\Session_03\\CheckNationalCode\\01.Core\\CheckNationalCode.Core.ApplicationServices\\Common\\IApplicationServies.cs",
+              "RelativeToolTip": "01.Core\\CheckNationalCode.Core.ApplicationServices\\Common\\IApplicationServies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:48:55.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\C#_Pro\\Practice\\Session_03\\CheckNationalCode\\01.Core\\CheckNationalCode.Core.Domain\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "01.Core\\CheckNationalCode.Core.Domain\\BaseEntity.cs",
+              "ToolTip": "E:\\C#_Pro\\Practice\\Session_03\\CheckNationalCode\\01.Core\\CheckNationalCode.Core.Domain\\BaseEntity.cs",
+              "RelativeToolTip": "01.Core\\CheckNationalCode.Core.Domain\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:45:43.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#_Pro\\Practice\\Session_03\\CheckNationalCode\\03.EndPoints\\CheckNationalCode.Endpoint.Rest\\Program.cs",
+              "RelativeDocumentMoniker": "03.EndPoints\\CheckNationalCode.Endpoint.Rest\\Program.cs",
+              "ToolTip": "E:\\C#_Pro\\Practice\\Session_03\\CheckNationalCode\\03.EndPoints\\CheckNationalCode.Endpoint.Rest\\Program.cs",
+              "RelativeToolTip": "03.EndPoints\\CheckNationalCode.Endpoint.Rest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:36:10.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
