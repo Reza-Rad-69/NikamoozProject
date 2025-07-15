@@ -19,7 +19,15 @@ builder.Services.Configure<RouteOptions>(options =>
     options.ConstraintMap.Add("nationalcode", typeof(MelliCodeConstraint));
 });
 var app = builder.Build();
+app.UseStaticFiles();
 
+app.UseExceptionHandler("/error");
+app.Map("/error", (HttpContext context) =>
+{
+    context.Response.StatusCode = 500;
+    context.Response.ContentType = "text/html";
+    return Results.File("wwwroot/error.html", "text/html");
+});
 app.MapGet("/users/{nationalCode:nationalcode}", (string nationalCode, IRequestUserRepository requestUserRepository) =>
 {
     var entity = new RequestUser

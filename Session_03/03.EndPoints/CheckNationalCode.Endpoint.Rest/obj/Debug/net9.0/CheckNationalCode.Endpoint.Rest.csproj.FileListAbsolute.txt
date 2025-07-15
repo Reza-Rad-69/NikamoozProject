@@ -347,3 +347,5 @@ E:\C#_Pro\Practice\Session_03\03.EndPoints\CheckNationalCode.Endpoint.Rest\obj\D
 E:\C#_Pro\Practice\Session_03\03.EndPoints\CheckNationalCode.Endpoint.Rest\obj\Debug\net9.0\CheckNationalCode.Endpoint.Rest.pdb
 E:\C#_Pro\Practice\Session_03\03.EndPoints\CheckNationalCode.Endpoint.Rest\obj\Debug\net9.0\CheckNationalCode.Endpoint.Rest.genruntimeconfig.cache
 E:\C#_Pro\Practice\Session_03\03.EndPoints\CheckNationalCode.Endpoint.Rest\obj\Debug\net9.0\ref\CheckNationalCode.Endpoint.Rest.dll
+E:\C#_Pro\Practice\Session_03\03.EndPoints\CheckNationalCode.Endpoint.Rest\bin\Debug\net9.0\CheckNationalCode.Endpoint.Rest.staticwebassets.runtime.json
+E:\C#_Pro\Practice\Session_03\03.EndPoints\CheckNationalCode.Endpoint.Rest\obj\Debug\net9.0\compressed\v4fj51m6tt-87rpwvmpat.gz
