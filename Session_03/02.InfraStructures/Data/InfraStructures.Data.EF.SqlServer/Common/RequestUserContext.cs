@@ -1,13 +1,12 @@
 ﻿
 using InfraStructures.Data.EF.SqlServer.RequestUser;
 using Microsoft.EntityFrameworkCore;
-using System.Collections.Generic;
 
-namespace taskSession2.InfraStructures.Data.EF.SqlServer.Common
+namespace InfraStructures.Data.EF.SqlServer.Common
 {
     public class RequestUserContext : DbContext
     {
-        public DbSet<CheckNationalCode.Core.Domain.Users.RequestUser> Tasks { get; set; }
+        public DbSet<CheckNationalCode.Core.Domain.Users.RequestUser> RequestUser { get; set; }
         public RequestUserContext(DbContextOptions<RequestUserContext> option) : base(option)
         {
 

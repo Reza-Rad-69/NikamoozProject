@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CheckNationalCode.Endpoint.Rest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+299a54b074f49cabd0671e6c2473f16954b72372")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e403a619dc30a2afac2fbbdf0989501d1aeb756")]
 [assembly: System.Reflection.AssemblyProductAttribute("CheckNationalCode.Endpoint.Rest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CheckNationalCode.Endpoint.Rest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,50 +13,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B0CD5C04-DE51-403B-8ED1-6EF5AAD0B2D8}|02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\taskSession2.InfraStructures.Data.EF.SqlServer.csproj|e:\\c#_pro\\practice\\session_02\\02.infrastructures\\data\\tasksession2.infrastructures.data.ef.sqlserver\\tasks\\taskconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0CD5C04-DE51-403B-8ED1-6EF5AAD0B2D8}|02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\taskSession2.InfraStructures.Data.EF.SqlServer.csproj|solutionrelative:02.infrastructures\\data\\tasksession2.infrastructures.data.ef.sqlserver\\tasks\\taskconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0CD5C04-DE51-403B-8ED1-6EF5AAD0B2D8}|02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\taskSession2.InfraStructures.Data.EF.SqlServer.csproj|e:\\c#_pro\\practice\\session_02\\02.infrastructures\\data\\tasksession2.infrastructures.data.ef.sqlserver\\statustask\\statustaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0CD5C04-DE51-403B-8ED1-6EF5AAD0B2D8}|02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\taskSession2.InfraStructures.Data.EF.SqlServer.csproj|solutionrelative:02.infrastructures\\data\\tasksession2.infrastructures.data.ef.sqlserver\\statustask\\statustaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0CD5C04-DE51-403B-8ED1-6EF5AAD0B2D8}|02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\taskSession2.InfraStructures.Data.EF.SqlServer.csproj|e:\\c#_pro\\practice\\session_02\\02.infrastructures\\data\\tasksession2.infrastructures.data.ef.sqlserver\\statustask\\statusdescriptionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0CD5C04-DE51-403B-8ED1-6EF5AAD0B2D8}|02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\taskSession2.InfraStructures.Data.EF.SqlServer.csproj|solutionrelative:02.infrastructures\\data\\tasksession2.infrastructures.data.ef.sqlserver\\statustask\\statusdescriptionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D709237A-EF62-4397-BF2B-74D76065747A}|03.Endpoint\\taskSession2.Endpoint.Rest\\taskSession2.Endpoint.Rest.csproj|e:\\c#_pro\\practice\\session_02\\03.endpoint\\tasksession2.endpoint.rest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D709237A-EF62-4397-BF2B-74D76065747A}|03.Endpoint\\taskSession2.Endpoint.Rest\\taskSession2.Endpoint.Rest.csproj|solutionrelative:03.endpoint\\tasksession2.endpoint.rest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0CD5C04-DE51-403B-8ED1-6EF5AAD0B2D8}|02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\taskSession2.InfraStructures.Data.EF.SqlServer.csproj|e:\\c#_pro\\practice\\session_02\\02.infrastructures\\data\\tasksession2.infrastructures.data.ef.sqlserver\\statustask\\statustaskconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0CD5C04-DE51-403B-8ED1-6EF5AAD0B2D8}|02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\taskSession2.InfraStructures.Data.EF.SqlServer.csproj|solutionrelative:02.infrastructures\\data\\tasksession2.infrastructures.data.ef.sqlserver\\statustask\\statustaskconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0CD5C04-DE51-403B-8ED1-6EF5AAD0B2D8}|02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\taskSession2.InfraStructures.Data.EF.SqlServer.csproj|e:\\c#_pro\\practice\\session_02\\02.infrastructures\\data\\tasksession2.infrastructures.data.ef.sqlserver\\common\\taskscontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0CD5C04-DE51-403B-8ED1-6EF5AAD0B2D8}|02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\taskSession2.InfraStructures.Data.EF.SqlServer.csproj|solutionrelative:02.infrastructures\\data\\tasksession2.infrastructures.data.ef.sqlserver\\common\\taskscontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0CD5C04-DE51-403B-8ED1-6EF5AAD0B2D8}|02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\taskSession2.InfraStructures.Data.EF.SqlServer.csproj|e:\\c#_pro\\practice\\session_02\\02.infrastructures\\data\\tasksession2.infrastructures.data.ef.sqlserver\\common\\taskscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0CD5C04-DE51-403B-8ED1-6EF5AAD0B2D8}|02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\taskSession2.InfraStructures.Data.EF.SqlServer.csproj|solutionrelative:02.infrastructures\\data\\tasksession2.infrastructures.data.ef.sqlserver\\common\\taskscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0CD5C04-DE51-403B-8ED1-6EF5AAD0B2D8}|02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\taskSession2.InfraStructures.Data.EF.SqlServer.csproj|e:\\c#_pro\\practice\\session_02\\02.infrastructures\\data\\tasksession2.infrastructures.data.ef.sqlserver\\common\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0CD5C04-DE51-403B-8ED1-6EF5AAD0B2D8}|02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\taskSession2.InfraStructures.Data.EF.SqlServer.csproj|solutionrelative:02.infrastructures\\data\\tasksession2.infrastructures.data.ef.sqlserver\\common\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27B702EF-64B8-4603-9CC1-FC255A43B898}|01.Core\\taskSession2.Core.ApplicationServices\\taskSession2.Core.ApplicationServices.csproj|e:\\c#_pro\\practice\\session_02\\01.core\\tasksession2.core.applicationservices\\common\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27B702EF-64B8-4603-9CC1-FC255A43B898}|01.Core\\taskSession2.Core.ApplicationServices\\taskSession2.Core.ApplicationServices.csproj|solutionrelative:01.core\\tasksession2.core.applicationservices\\common\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27B702EF-64B8-4603-9CC1-FC255A43B898}|01.Core\\taskSession2.Core.ApplicationServices\\taskSession2.Core.ApplicationServices.csproj|e:\\c#_pro\\practice\\session_02\\01.core\\tasksession2.core.applicationservices\\common\\iapplicationservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27B702EF-64B8-4603-9CC1-FC255A43B898}|01.Core\\taskSession2.Core.ApplicationServices\\taskSession2.Core.ApplicationServices.csproj|solutionrelative:01.core\\tasksession2.core.applicationservices\\common\\iapplicationservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27B702EF-64B8-4603-9CC1-FC255A43B898}|01.Core\\taskSession2.Core.ApplicationServices\\taskSession2.Core.ApplicationServices.csproj|e:\\c#_pro\\practice\\session_02\\01.core\\tasksession2.core.applicationservices\\statustasks\\istatustasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27B702EF-64B8-4603-9CC1-FC255A43B898}|01.Core\\taskSession2.Core.ApplicationServices\\taskSession2.Core.ApplicationServices.csproj|solutionrelative:01.core\\tasksession2.core.applicationservices\\statustasks\\istatustasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27B702EF-64B8-4603-9CC1-FC255A43B898}|01.Core\\taskSession2.Core.ApplicationServices\\taskSession2.Core.ApplicationServices.csproj|e:\\c#_pro\\practice\\session_02\\01.core\\tasksession2.core.applicationservices\\tasks\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27B702EF-64B8-4603-9CC1-FC255A43B898}|01.Core\\taskSession2.Core.ApplicationServices\\taskSession2.Core.ApplicationServices.csproj|solutionrelative:01.core\\tasksession2.core.applicationservices\\tasks\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,32 +22,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\C#_Pro\\Practice\\Session_02\\03.Endpoint\\taskSession2.Endpoint.Rest\\Program.cs",
-              "RelativeDocumentMoniker": "03.Endpoint\\taskSession2.Endpoint.Rest\\Program.cs",
-              "ToolTip": "E:\\C#_Pro\\Practice\\Session_02\\03.Endpoint\\taskSession2.Endpoint.Rest\\Program.cs",
-              "RelativeToolTip": "03.Endpoint\\taskSession2.Endpoint.Rest\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "E:\\C#_Pro\\Practice\\Session_02\\02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\Tasks\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\Tasks\\TaskRepository.cs",
+              "ToolTip": "E:\\C#_Pro\\Practice\\Session_02\\02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\Tasks\\TaskRepository.cs",
+              "RelativeToolTip": "02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\Tasks\\TaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T13:43:36.258Z",
+              "WhenOpened": "2025-07-15T07:15:04.02Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\C#_Pro\\Practice\\Session_02\\03.Endpoint\\taskSession2.Endpoint.Rest\\appsettings.json",
-              "RelativeDocumentMoniker": "03.Endpoint\\taskSession2.Endpoint.Rest\\appsettings.json",
-              "ToolTip": "E:\\C#_Pro\\Practice\\Session_02\\03.Endpoint\\taskSession2.Endpoint.Rest\\appsettings.json",
-              "RelativeToolTip": "03.Endpoint\\taskSession2.Endpoint.Rest\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-10T13:43:36.559Z"
             },
             {
               "$type": "Document",
@@ -103,139 +47,21 @@
               "RelativeToolTip": "02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\Tasks\\TaskConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T13:43:13.965Z"
+              "WhenOpened": "2025-07-15T07:15:03.356Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TaskRepository.cs",
-              "DocumentMoniker": "E:\\C#_Pro\\Practice\\Session_02\\02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\Tasks\\TaskRepository.cs",
-              "RelativeDocumentMoniker": "02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\Tasks\\TaskRepository.cs",
-              "ToolTip": "E:\\C#_Pro\\Practice\\Session_02\\02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\Tasks\\TaskRepository.cs",
-              "RelativeToolTip": "02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\Tasks\\TaskRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#_Pro\\Practice\\Session_02\\03.Endpoint\\taskSession2.Endpoint.Rest\\Program.cs",
+              "RelativeDocumentMoniker": "03.Endpoint\\taskSession2.Endpoint.Rest\\Program.cs",
+              "ToolTip": "E:\\C#_Pro\\Practice\\Session_02\\03.Endpoint\\taskSession2.Endpoint.Rest\\Program.cs",
+              "RelativeToolTip": "03.Endpoint\\taskSession2.Endpoint.Rest\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T13:43:10.125Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StatusTaskRepository.cs",
-              "DocumentMoniker": "E:\\C#_Pro\\Practice\\Session_02\\02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\StatusTask\\StatusTaskRepository.cs",
-              "RelativeDocumentMoniker": "02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\StatusTask\\StatusTaskRepository.cs",
-              "ToolTip": "E:\\C#_Pro\\Practice\\Session_02\\02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\StatusTask\\StatusTaskRepository.cs",
-              "RelativeToolTip": "02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\StatusTask\\StatusTaskRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T13:42:59.258Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StatusTaskConfig.cs",
-              "DocumentMoniker": "E:\\C#_Pro\\Practice\\Session_02\\02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\StatusTask\\StatusTaskConfig.cs",
-              "RelativeDocumentMoniker": "02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\StatusTask\\StatusTaskConfig.cs",
-              "ToolTip": "E:\\C#_Pro\\Practice\\Session_02\\02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\StatusTask\\StatusTaskConfig.cs",
-              "RelativeToolTip": "02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\StatusTask\\StatusTaskConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T13:42:54.163Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StatusDescriptionConfig.cs",
-              "DocumentMoniker": "E:\\C#_Pro\\Practice\\Session_02\\02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\StatusTask\\StatusDescriptionConfig.cs",
-              "RelativeDocumentMoniker": "02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\StatusTask\\StatusDescriptionConfig.cs",
-              "ToolTip": "E:\\C#_Pro\\Practice\\Session_02\\02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\StatusTask\\StatusDescriptionConfig.cs",
-              "RelativeToolTip": "02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\StatusTask\\StatusDescriptionConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T13:42:50.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TasksContextFactory.cs",
-              "DocumentMoniker": "E:\\C#_Pro\\Practice\\Session_02\\02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\Common\\TasksContextFactory.cs",
-              "RelativeDocumentMoniker": "02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\Common\\TasksContextFactory.cs",
-              "ToolTip": "E:\\C#_Pro\\Practice\\Session_02\\02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\Common\\TasksContextFactory.cs",
-              "RelativeToolTip": "02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\Common\\TasksContextFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T13:41:02.23Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TasksContext.cs",
-              "DocumentMoniker": "E:\\C#_Pro\\Practice\\Session_02\\02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\Common\\TasksContext.cs",
-              "RelativeDocumentMoniker": "02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\Common\\TasksContext.cs",
-              "ToolTip": "E:\\C#_Pro\\Practice\\Session_02\\02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\Common\\TasksContext.cs",
-              "RelativeToolTip": "02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\Common\\TasksContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T13:40:38.604Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "E:\\C#_Pro\\Practice\\Session_02\\02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\Common\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\Common\\BaseRepository.cs",
-              "ToolTip": "E:\\C#_Pro\\Practice\\Session_02\\02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\Common\\BaseRepository.cs",
-              "RelativeToolTip": "02.InfraStructures\\Data\\taskSession2.InfraStructures.Data.EF.SqlServer\\Common\\BaseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T13:39:52.21Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IBaseRepository.cs",
-              "DocumentMoniker": "E:\\C#_Pro\\Practice\\Session_02\\01.Core\\taskSession2.Core.ApplicationServices\\Common\\IBaseRepository.cs",
-              "RelativeDocumentMoniker": "01.Core\\taskSession2.Core.ApplicationServices\\Common\\IBaseRepository.cs",
-              "ToolTip": "E:\\C#_Pro\\Practice\\Session_02\\01.Core\\taskSession2.Core.ApplicationServices\\Common\\IBaseRepository.cs",
-              "RelativeToolTip": "01.Core\\taskSession2.Core.ApplicationServices\\Common\\IBaseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T13:39:14.254Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IApplicationServies.cs",
-              "DocumentMoniker": "E:\\C#_Pro\\Practice\\Session_02\\01.Core\\taskSession2.Core.ApplicationServices\\Common\\IApplicationServies.cs",
-              "RelativeDocumentMoniker": "01.Core\\taskSession2.Core.ApplicationServices\\Common\\IApplicationServies.cs",
-              "ToolTip": "E:\\C#_Pro\\Practice\\Session_02\\01.Core\\taskSession2.Core.ApplicationServices\\Common\\IApplicationServies.cs",
-              "RelativeToolTip": "01.Core\\taskSession2.Core.ApplicationServices\\Common\\IApplicationServies.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T13:39:09.281Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IStatusTasksRepository.cs",
-              "DocumentMoniker": "E:\\C#_Pro\\Practice\\Session_02\\01.Core\\taskSession2.Core.ApplicationServices\\StatusTasks\\IStatusTasksRepository.cs",
-              "RelativeDocumentMoniker": "01.Core\\taskSession2.Core.ApplicationServices\\StatusTasks\\IStatusTasksRepository.cs",
-              "ToolTip": "E:\\C#_Pro\\Practice\\Session_02\\01.Core\\taskSession2.Core.ApplicationServices\\StatusTasks\\IStatusTasksRepository.cs",
-              "RelativeToolTip": "01.Core\\taskSession2.Core.ApplicationServices\\StatusTasks\\IStatusTasksRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T13:39:03.286Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ITaskRepository.cs",
-              "DocumentMoniker": "E:\\C#_Pro\\Practice\\Session_02\\01.Core\\taskSession2.Core.ApplicationServices\\Tasks\\ITaskRepository.cs",
-              "RelativeDocumentMoniker": "01.Core\\taskSession2.Core.ApplicationServices\\Tasks\\ITaskRepository.cs",
-              "ToolTip": "E:\\C#_Pro\\Practice\\Session_02\\01.Core\\taskSession2.Core.ApplicationServices\\Tasks\\ITaskRepository.cs",
-              "RelativeToolTip": "01.Core\\taskSession2.Core.ApplicationServices\\Tasks\\ITaskRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T13:39:01.079Z"
+              "WhenOpened": "2025-07-15T07:02:51.041Z",
+              "EditorCaption": ""
             }
           ]
         }

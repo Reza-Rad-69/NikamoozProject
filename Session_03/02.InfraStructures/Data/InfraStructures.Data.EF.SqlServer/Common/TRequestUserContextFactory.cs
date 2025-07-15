@@ -1,9 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
 using Microsoft.Extensions.Configuration;
-namespace taskSession2.InfraStructures.Data.EF.SqlServer.Common
+namespace InfraStructures.Data.EF.SqlServer.Common
 {
-    public class TasksContextFactory : IDesignTimeDbContextFactory<RequestUserContext>
+    public class TRequestUserContextFactory : IDesignTimeDbContextFactory<RequestUserContext>
     {
         public RequestUserContext CreateDbContext(string[] args)
         {
@@ -13,7 +13,7 @@ namespace taskSession2.InfraStructures.Data.EF.SqlServer.Common
                 .Build();
 
             var builder = new DbContextOptionsBuilder<RequestUserContext>();
-            var connectionString = configuration.GetConnectionString("Tasks");
+            var connectionString = configuration.GetConnectionString("Request");
             builder.UseSqlServer(connectionString);
             return new RequestUserContext(builder.Options);
         }

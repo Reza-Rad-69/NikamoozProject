@@ -1,8 +1,7 @@
 ﻿using CheckNationalCode.Core.ApplicationServices.Common;
 using CheckNationalCode.Core.Domain;
 
-
-namespace taskSession2.InfraStructures.Data.EF.SqlServer.Common
+namespace InfraStructures.Data.EF.SqlServer.Common
 {
     public class BaseRepository<TEntity> : IBaseRepository<TEntity> where TEntity : BaseEntity, new()
     {
